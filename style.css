@@ -20,5 +20,5 @@
     background-color: hsl(40,100%,40%);   
 }
 .button:focus{
-    border:1px solid hsl(40,100%,40%) ;
+   outline: none;
 }
