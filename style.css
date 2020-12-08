@@ -6,4 +6,6 @@
     display: inline-block;
     background-color: hsl(40,100%,45%);
     border: 1px solid hsl(40,100%,45%);
+    color: white;
+    font-family: 'Roboto', sans-serif;
 }
