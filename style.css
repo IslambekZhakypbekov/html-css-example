@@ -35,3 +35,15 @@ border:  1px solid hsl(110,100%,45%);
     background-color: hsl(110,100%,40%); 
     border: 1px solid hsl(110,100%,40%);  
 }
+.button.danger{
+    background-color: hsl(0, 100% , 45%);
+    border:  1px solid hsl(0,100%,45%);
+}
+.button.danger:hover{
+    background-color:hsl(0,100%,35%) ;
+    border: 1px solid hsl(0,100%,35%); 
+}
+.button.danger:active{
+    background-color: hsl(0,100%,40%); 
+    border: 1px solid hsl(0,100%,40%);  
+}
